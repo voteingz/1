@@ -1,0 +1,16 @@
+Uri: https://arabassiastariz.pages.dev/
+File Name: C:\Downloaded Web Sites\arabassiastariz.pages.dev\index.htm
+Content Type: text/html
+
+Uri: https://arabassiastariz.pages.dev/css/my-login.css
+File Name: C:\Downloaded Web Sites\arabassiastariz.pages.dev\css\my-login.css
+Content Type: text/css
+
+Uri: https://arabassiastariz.pages.dev/img/logo.png
+File Name: C:\Downloaded Web Sites\arabassiastariz.pages.dev\img\logo.png
+Content Type: image/png
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\arabassiastariz.pages.dev\bootstrap\4.3.1\css\bootstrap.min.css
+Content Type: text/css
+
